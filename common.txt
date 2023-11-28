@@ -2,3 +2,4 @@ payload:
   - '+.zhtdtech.com'
   - '+.yacd.haishan.me'
   - '+.clash.razord.top'
+  - '+.baidu.com'
